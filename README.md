@@ -7,8 +7,6 @@ I love everything about computers may it be Software, Hardware, Networking, Arch
 ---------------------------------------------------------
 
 🌱 I’m currently learning...
-- React
-- Angular
 - React Native
 ----------------------------------------------------------
 📫 Reach me ...<br>
@@ -37,4 +35,6 @@ I never want to be limited by technology, I want to learn everything. Some of th
 - PostgreSQL
 - MongoDB
 - Google Apps Script
+- Ruby
+- Ruby on Rails
 
